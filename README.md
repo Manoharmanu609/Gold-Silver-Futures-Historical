@@ -25,9 +25,9 @@ To visualize insights using graphs
 
 Datasets Used:
 
-Gold Futures Historical Data
+Gold Futures Historical Data 
 
-Silver Futures Historical Data
+Silver Futures Historical Data 
 
 Data includes:
 
